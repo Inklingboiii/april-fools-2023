@@ -96,10 +96,10 @@
   ],
   "images": [
     {
-      "uri": "textures/PDX13_-_Default_baseColor.jpeg"
+      "uri": "PDX13_-_Default_baseColor.jpeg"
     },
     {
-      "uri": "textures/PDX13_-_Default_metallicRoughness.png"
+      "uri": "PDX13_-_Default_metallicRoughness.png"
     }
   ],
   "materials": [
