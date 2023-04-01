@@ -129,7 +129,7 @@
     //
     window.addEventListener('resize', onWindowResize);
     const loader = new GLTFLoader();
-    loader.load('rick_astley.glb', (gltf) => {
+    loader.load('scene.gltf', (gltf) => {
       model = glt.scene
       model.position.x = 10
       scene.add(model);
